@@ -2,6 +2,7 @@
 
 * Студент: [Bla Bla](https://up.htmlacademy.ru/htmlcss/40/user/1198773).
 * Наставник: [Валера Хаслер](https://github.com/Vallek).
+* Сайт: [Мой проект Седона](https://pambal.github.io/1198773-sedona-40/).
 
 ---
 
