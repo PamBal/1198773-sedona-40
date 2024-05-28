@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Bla Bla](https://up.htmlacademy.ru/htmlcss/40/user/1198773).
-* Наставник: `Неизвестно`.
+* Наставник: [Валера Хаслер](https://github.com/Vallek).
 
 ---
 
